@@ -1,4 +1,4 @@
-def main(a):
+def main():
     """
     Return a string consisting only of uppercase.
     Args:
