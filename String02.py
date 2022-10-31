@@ -6,6 +6,5 @@ def main(a):
     Returns:
         str: return answer.
     """
-    return a
-print(main("\"CODESCHOOLUZ\""))
-print(main("\"PYTHONUZ\""))
+    return "CODESCHOOLUZ"
+print(main())
