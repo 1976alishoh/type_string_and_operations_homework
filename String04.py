@@ -7,4 +7,4 @@ def main():
         str: return answer.
     """
     
-    return "s"
+    return "\"s\""
