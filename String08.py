@@ -7,5 +7,5 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return  last + "," + first
+    return f"{last}, { first}"
 print(main("Otabek","Tursunov"))
